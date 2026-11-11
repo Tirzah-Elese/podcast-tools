@@ -1,6 +1,6 @@
-# Podcast Tools
+# Education Unraveled: Podcast Tools
 
-Interactive reflection tools from ExelAcademy to go with our podcast. Each tool is a single web page that works in any browser, with nothing to install.
+Interactive reflection tools from ExelAcademy to go with our podcast, Education Unraveled. Each tool is a single web page that works in any browser, with nothing to install.
 
 ## Tools
 
