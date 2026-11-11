@@ -1,6 +1,10 @@
 # Education Unraveled: Podcast Tools
 
-Interactive reflection tools from ExelAcademy to go with our podcast, Education Unraveled. Each tool is a single web page that works in any browser, with nothing to install.
+Interactive reflection tools from ExelAcademy to go with our podcast, Education Unraveled.
+
+Education Unraveled is for people who want to redesign how young people are educated and prepared for the world: parents, educators, employers and community leaders, as well as young people themselves. The tools work for adults and young people alike.
+
+Each tool is a single web page that works in any browser, with nothing to install.
 
 ## Tools
 
